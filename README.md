@@ -1,5 +1,8 @@
 # github-user-activity
 
+## Project URL for roadmap.sh project
+https://roadmap.sh/projects/github-user-activity
+
 ## Setup
 
 1. Clone repository:
